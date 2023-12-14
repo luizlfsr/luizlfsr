@@ -1,24 +1,9 @@
-# Hi there!
-### I'm luiz felipe, I want learn progamming and work with this any day
-#### 🌱 I'm currently learning HTML, CSS, Js
-
-# my repositories
-   [my first repository](https://github.com/luizlfsr/calculadora)
-
-   [login-page](https://github.com/luizlfsr/login-page)
-
-   [task-list](https://github.com/luizlfsr/Tasklist)
-<!--
-**luizlfsr/luizlfsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+   <h1>Olá, Bem-Vindo</h1>
+   <p>Sou um aspirante a Desenvolvedor Web na parte do Front-End</p>
+   <p>Atualmenet estou estudando React</p>
+</div>
+<div>
+   <a href="https://github.com/luizlfsr"></a>
+</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
