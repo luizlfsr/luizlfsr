@@ -4,6 +4,7 @@
    <p>Atualmenet estou estudando React</p>
 </div>
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlfsr">
-   <img height="180em" src="https://github.com/anuraghazra/github-readme-stats">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlfsr&show_icons=true&theme=dracula">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlfsr&layout=compact&theme=dracula">
+   <img height="180em" src="https://github.com/luizlfsr/github-readme-stats">
 </div>
