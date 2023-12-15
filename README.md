@@ -30,28 +30,28 @@
    <h2 align="center">Meus repositorios</h2>
    <div>
       <h3>Costs</h3>
-      <a href="https://github.com/luizlfsr/Costs"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&repo=Costs&hide_border=true"></a>
+      
    </div>
 
 ---   
    
    <div>
       <h3>Calculadora</h3>
-      <a href="https://github.com/luizlfsr/calculadora"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&repo=calculadora&hide_border=true"></a>
-    </div>
+      
+   </div>
 
 ---    
    
    <div>
       <h3>Login Page</h3>
-      <a href="https://github.com/luizlfsr/login-page"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&repo=login-page&hide_border=true"></a>    
+          
    </div>
 
 ---
    
    <div>
       <h3>Task List</h3>
-      <a href="https://github.com/luizlfsr/TaskList"><img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&repo=TaskList&hide_border=true"></a>   
+         
    </div>
 
 ---
