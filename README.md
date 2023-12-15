@@ -1,15 +1,15 @@
 <div>
    <h2>Olá, Bem-Vindo</h2>
-   <blockquote><p>Sou um aspirante a Desenvolvedor Web na parte do Front-End</p></blockquote>
-   <blockquote><p>Atualmenet estou estudando React</p></blockquote>
+   <blockquote><p>Entusiasta autodidata em desenvolvimento front-end, dedicado a transformar minha paixão por criar websites em projetos funcionais e bem elaborados.</p></blockquote>
+   <blockquote><p>Atualmente estou estudando React</p></blockquote>
 </div>
 
 ---
 
 <div align="center">
    <h2>Github Status</h2>
-   <a href="https://github.com/luizlfsr"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlfsr&show_icons=true&theme=dracula&hide_border=true">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlfsr&layout=compact&theme=dracula&hide_border=true"></a>
+   <a href="https://github.com/luizlfsr"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlfsr&show_icons=true&theme=dracula&hide_border=true&border_radius=0&rank_icon=github">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizlfsr&layout=compact&theme=dracula&hide_border=true&border_radius=0"></a>
 </div>
 
 ---
@@ -30,28 +30,28 @@
    <h2 align="center">Meus repositorios</h2>
    <div>
       <h3>Costs</h3>
-      
+      <a href="https://github.com/luizlfsr/Costs"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=costs&description_lines_count=2&border_radius=0"></a>
    </div>
 
 ---   
    
    <div>
       <h3>Calculadora</h3>
-      
+      <a href="https://github.com/luizlfsr/calculadora"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=calculadora&border_radius=0"></a>
    </div>
 
 ---    
    
    <div>
       <h3>Login Page</h3>
-          
+      <a href="https://github.com/luizlfsr/login-page"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=login-page&border_radius=0"></a>
    </div>
 
 ---
    
    <div>
       <h3>Task List</h3>
-         
+      <a href="https://github.com/luizlfsr/TaskList"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=TaskList&border_radius=0"></a>
    </div>
 
 ---
