@@ -33,7 +33,14 @@
       <a href="https://github.com/luizlfsr/Costs"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=costs&description_lines_count=2&border_radius=0"></a>
    </div>
 
----   
+---  
+   
+   <div>
+      <h3>Tic Tac Toe</h3>
+      <a href="https://github.com/luizlfsr/tic_tac_toe_react"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=tic_tac_toe_react&border_radius=0"></a>
+   </div>
+
+---
    
    <div>
       <h3>Calculadora</h3>
