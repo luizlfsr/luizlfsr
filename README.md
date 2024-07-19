@@ -1,7 +1,6 @@
 <div>
    <h2>Olá, Bem-Vindo</h2>
    <blockquote><p>Entusiasta autodidata em desenvolvimento front-end, dedicado a transformar minha paixão por criar websites em projetos funcionais e bem elaborados.</p></blockquote>
-   <blockquote><p>Atualmente estou estudando React</p></blockquote>
 </div>
 
 ---
