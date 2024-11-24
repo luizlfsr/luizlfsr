@@ -1,6 +1,6 @@
 <div>
    <h2>Olá, Bem-Vindo</h2>
-   <blockquote><p>Entusiasta autodidata em desenvolvimento front-end, dedicado a transformar minha paixão por criar websites em projetos funcionais e bem elaborados.</p></blockquote>
+   <blockquote><p>Hello, I'm a student, I'm studying systems analysis and development at uniasselvi, one day I'll be a programmer and I'll frequently use this site</p></blockquote>
 </div>
 
 ---
@@ -14,7 +14,7 @@
 ---
 
 <div>
-   <h3>linguagens</h3>
+   <h3>Languages</h3>
    <img align="center" alt="luizHtml5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
    <img align="center" alt="luizCss3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
    <img align="center" alt="luizJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -24,6 +24,9 @@
 </div>
 
 ---
+   <div>
+      <h2>My Repositories</h2>
+   </div>
 
    <div>
       <h3>Tic Tac Toe</h3>
