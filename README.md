@@ -25,39 +25,9 @@
 
 ---
 
-<div>
-   <h2 align="center">Meus repositorios</h2>
-   <div>
-      <h3>Costs</h3>
-      <a href="https://github.com/luizlfsr/Costs"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=costs&description_lines_count=2&border_radius=0"></a>
-   </div>
-
----  
-   
    <div>
       <h3>Tic Tac Toe</h3>
       <a href="https://github.com/luizlfsr/tic_tac_toe_react"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=tic_tac_toe_react&border_radius=0"></a>
-   </div>
-
----
-   
-   <div>
-      <h3>Calculadora</h3>
-      <a href="https://github.com/luizlfsr/calculadora"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=calculadora&border_radius=0"></a>
-   </div>
-
----    
-   
-   <div>
-      <h3>Login Page</h3>
-      <a href="https://github.com/luizlfsr/login-page"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=login-page&border_radius=0"></a>
-   </div>
-
----
-   
-   <div>
-      <h3>Task List</h3>
-      <a href="https://github.com/luizlfsr/TaskList"><img height="160em" src="https://github-readme-stats.vercel.app/api/pin/?username=luizlfsr&theme=dracula&hide_border=true&repo=TaskList&border_radius=0"></a>
    </div>
 
 ---
