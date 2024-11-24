@@ -1,5 +1,4 @@
 <div>
-   <h2>Olá, Bem-Vindo</h2>
    <blockquote><p>Hello, I'm a student, I'm studying systems analysis and development at uniasselvi, one day I'll be a programmer and I'll frequently use this site</p></blockquote>
 </div>
 
